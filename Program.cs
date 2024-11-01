@@ -4,7 +4,6 @@
     {
         static void Main(string[] args)
         {
-            //123
             string användarval;
             Console.WriteLine("Välj din roll");
             Console.WriteLine("1: Kund");
@@ -40,7 +39,7 @@
                 Console.WriteLine("Vakt");
             }
 
-
+            //test
             static void Ägare()
             {
                 Console.WriteLine("Ägare");
